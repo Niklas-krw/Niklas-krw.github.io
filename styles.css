@@ -1,0 +1,32 @@
+body {
+  background-color: #ffe6ee;
+}
+h1 {
+  font-size: 500%; color:blue ; font-family:courier ; text-align:center
+}
+p {
+  color:#cc0041; font-family:courier ; font-size: 200%; text-align:center
+}
+#p01 {
+  color: blue;font-size: 200%; font-family:courier ; text-align:center;
+}
+
+#bild {text-align:center; 
+}
+a:link {
+	     color:#ff80a8;
+}
+a:visited {
+  color: #cc0041;
+}
+a:hover { 
+         color:white;
+}
+a:active {
+	      color: white;
+}
+span.note {
+	font-size: 120%;
+	color: green;
+}
+
